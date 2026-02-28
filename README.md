@@ -4,7 +4,7 @@ An AI-powered email automation workflow built with n8n, Google Gemini (PaLM API)
 
 This project automatically reads incoming Gmail messages, generates intelligent AI-based replies using a large language model, logs the interaction in Airtable, and sends automated responses — creating a complete AI email assistant system.
 
-🚀 Keywords (SEO Optimized)
+>Keywords (SEO Optimized)
 
 AI Email Automation
 n8n Workflow Automation
